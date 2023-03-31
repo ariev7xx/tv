@@ -8,7 +8,7 @@
  <Period duration="PT0H0M15.000S">
   <AdaptationSet segmentAlignment="true" maxWidth="1920" maxHeight="1080" maxFrameRate="30" par="16:9" lang="und" startWithSAP="1">
    <Representation id="1" mimeType="video/mp4" codecs="avc1.42C028" width="1920" height="1080" frameRate="30" sar="1:1" bandwidth="473914">
-    <BaseURL>akses_dashinit.mp4</BaseURL>
+    <BaseURL>https://raw.githubusercontent.com/ariev7xx/tv/main/akses_dashinit.mp4</BaseURL>
     <SegmentList timescale="15360" duration="76800">
      <Initialization range="0-879"/>
      <SegmentURL mediaRange="880-326715" indexRange="880-923"/>
